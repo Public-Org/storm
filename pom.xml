@@ -341,9 +341,9 @@
                 <version>${clojure.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.esotericsoftware.kryo</groupId>
-                <artifactId>kryo</artifactId>
-                <version>${kryo.version}</version>
+                <groupId>com.esotericsoftwarex.kryo</groupId>
+                <artifactId>kryox</artifactId>
+                <version>${kryox.version}</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
